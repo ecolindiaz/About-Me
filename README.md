@@ -2,7 +2,7 @@
 
 My name is Emiliano Colin-Diaz and I'm a studying Statistics & Data Science at Yale University.
 
-I am deeply
+I first became interested in data science through Formula 1 and soccer, I was intrigued by how data-driven decisions are crucial to top teams. My first proejct was 
 
 # Experience
 
