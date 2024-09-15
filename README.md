@@ -1,5 +1,6 @@
 # About-Me
 
+"My name is"
 
 
 # Tech Stack
@@ -11,4 +12,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,github,figma,heroku,gcp)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecolindiaz)](https://github.com/ecolindiaz/github-readme-stats)
