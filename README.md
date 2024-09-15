@@ -1,6 +1,18 @@
 # About-Me
 
-"My name is"
+My name is Emiliano Colin-Diaz and I'm a studying Statistics & Data Science at Yale University.
+
+I am deeply
+
+# Experience
+
+  - Database Development Intern at World Wildlife Fund
+  - Growth Analyst Intern at Tonsser
+  - Citadel Terminal Competition
+  - Capital One Black and Hispanic Tech Summit
+  - NVIDIA Summer BRIDGE Program
+  - Data Visualization Specialist Intern at Electric Potential
+  - Research Assistant through Yale Forestry and Rangeland Research Program
 
 
 # Tech Stack
