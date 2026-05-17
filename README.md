@@ -6,6 +6,10 @@ I first became interested in data science through Formula 1 and soccer, I was in
 
 # Experience
 
+  - Incoming Jane Street Intern
+  - Data Science Intern at Mine (formerly Fizz)
+  - Research SDE Intern at Microsoft Research
+  - Data Analyst Intern at Workiva
   - Database Development Intern at World Wildlife Fund
   - Growth Analyst Intern at Tonsser
   - Citadel Terminal Competition
